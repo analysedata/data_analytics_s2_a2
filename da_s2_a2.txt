@@ -1,0 +1,24 @@
+Session 2, Assignment 1:
+  
+1. If the scores for a given sample distribution are: 32 32 35 36 37 38 38 39 39 39 40 40 42 45. Find the Variance and The Standard Deviation.
+	Answer: Variance = 12.46 and the Standard Deviation = 3.53
+
+2. The following table shows percent variations of two financial indices, the NYSE (New York Stock Exchange ) and the NASDAQ composite (National Association of Securities Dealers Automated Quotation) in 10 consecutive days: 
+
+Day	1	2	3	4	5	6	7	8	9	10
+NYS	0.58	0.01	0.43	-0.14	-1.15	0.15	-1.23	-0.88	-1.26	0.08
+NAS	0.70	-0.79	0.85	-0.16	-0.71	-0.02	-1.10	-0.77	-0.78	-0.35
+ 
+Use a suitable measure to quantify the dependence between the variations of the two indices and comment on the result.
+
+	Answer: I would suggest finding the Covariance and Correlation between the 2 variables (NYS & NASDAQ).
+		
+		Covariance = 0.39 (this the measure of how much NYS & NASDAQ vary together)
+		Correlation = 0.83 (this is not very far from a perfect relationship (1 being perfect) between NYS & NASDAQ
+
+		The distribution of the data points show that there is a 0.83 correlation between the NYS & NASDAQ.
+		So, when the NYS goes up in value, so does the NASDAQ tend to go up in value.
+		When the NYS goes down in value, so does the NASDAQ tend to go down in value.
+		The covariance is 0.39 in whatever unit of measure is being used.
+	
+		
